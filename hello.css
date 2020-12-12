@@ -1,0 +1,22 @@
+.sm{
+    background-color: red;
+    font-size: 18;
+    padding-right: 150px;
+    color: white;
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.bg{
+    background-color: palevioletred;
+    font-size: 28;
+    padding-right: 300px;
+    color: white;
+    border: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    margin-left: 50px;
+}
